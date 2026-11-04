@@ -1,0 +1,3 @@
+../Core/Src/machine_life.c:28:6:machine_life_init	3
+../Core/Src/machine_life.c:47:6:machine_life_task	8
+../Core/Src/machine_life.c:100:6:machine_life_switch_event	8

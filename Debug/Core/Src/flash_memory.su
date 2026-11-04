@@ -1,0 +1,2 @@
+../Core/Src/flash_memory.c:11:6:life_save	72	static
+../Core/Src/flash_memory.c:44:10:life_load	40	static
